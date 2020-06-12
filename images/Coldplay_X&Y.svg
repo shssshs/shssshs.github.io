@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+<rect fill="#005" width="500" height="500"/>
+<rect width="46" height="23" x="204" y="115"/>
+<rect width="23" height="23" x="273" y="115"/>
+<rect fill="#666" width="46" height="23" x="204" y="138"/>
+<rect fill="#666" width="23" height="23" x="273" y="138"/>
+<rect fill="#666" width="23" height="23" x="227" y="168"/>
+<rect fill="#FFF" width="23" height="23" x="227" y="191"/>
+<rect fill="#D20" width="13" height="4" x="209" y="221"/>
+<rect fill="#D20" width="35" height="4" x="232" y="221"/>
+<rect fill="#D20" width="13" height="4" x="278" y="221"/>
+<rect fill="#D20" width="23" height="23" x="204" y="232"/>
+<rect fill="#D20" width="23" height="23" x="273" y="232"/>
+<rect fill="#E50" width="23" height="23" x="204" y="255"/>
+<rect fill="#E50" width="23" height="23" x="204" y="285"/>
+<rect fill="#413" width="23" height="23" x="273" y="255"/>
+<rect fill="#413" width="23" height="23" x="273" y="338"/>
+<rect fill="#FA0" width="46" height="23" x="227" y="285"/>
+<rect fill="#461" width="69" height="23" x="204" y="308"/>
+<rect fill="#461" width="69" height="23" x="204" y="338"/>
+<rect fill="#137" width="92" height="23" x="204" y="361"/>
+</svg>
